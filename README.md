@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zenidal98
 - 👀 I’m interested in learning how to develop and create software.
-- 🌱 I’m currently learning C++, Javascript (and vuejs), HTML, CSS (and Bootstrap5), MongoDB and a bit of Phyton.
+- 🌱 I’m currently learning C++, Javascript (and React), HTML, CSS (and Bootstrap5), MongoDB, Phyton and Java.
 - 📫 How to reach me: francescopassarella@outlook.com
 
 <!---
